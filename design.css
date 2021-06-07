@@ -86,7 +86,7 @@ img {
   
   .divtable{
     text-align:center;
-    background-color: whitesmoke;
+    background-color: black;
     z-index:1;
   }
   
@@ -97,7 +97,7 @@ img {
     background-color: whitesmoke;
     z-index:0;
     font-size: 12px;
-    color: white;
+    color: darkgrey;
     text-align: center;
     padding: 5px;
     margin: 0px;
